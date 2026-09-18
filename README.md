@@ -1,2 +1,2 @@
 # branda-chen
-UH Manoa MBA candidate with background in accounting interested in learning more about the business world.
+UH Mānoa Global MBA candidate with an accounting background in tax compliance and financial reporting, eager to broaden my impact in the business world.
