@@ -1,9 +1,7 @@
 # AI Collaboration Conventions
 
 ## Core Rules & Context
-- **Owner**: UH Mānoa Global MBA Student & Professional Accountant (CPA-track)[cite: 1]
-- **Focus**: Business analysis, accounting (AP, reconciliations, grant compliance, tax), and financial modeling[cite: 1]
-- **Tone**: Professional, precise, concise, and structured
+
 
 ## Preferred Conventions
 - Use Markdown tables or bullet points for structured data and financial breakdowns.
